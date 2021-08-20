@@ -24,5 +24,3 @@ fn main() {
     }
 
 }
-
-// fn vital_sign (a: [[bool; 320];180]);
