@@ -4,4 +4,7 @@ trait Live_Dead {
     fn vital_sign (&self) -> bool;
 }
 impl Cell {
+    fn vital_sign (&self) -> bool{
+
+    }
 }

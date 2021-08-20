@@ -1,6 +1,7 @@
 // use std::cell::Cell;
 mod settings;
 mod cell;
+mod drawing;
 
 fn main() {
     let a = settings::Game_type::classic;
