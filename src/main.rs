@@ -3,6 +3,8 @@
 // mod cell;
 // mod drawing;
 // mod field;
+extern crate image;
+use image::
 
 fn main() {
     // let a = settings::Game_type::classic;
